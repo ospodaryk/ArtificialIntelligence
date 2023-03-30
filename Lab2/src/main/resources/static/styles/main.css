@@ -1,0 +1,58 @@
+
+html {
+    font-family: Georgia, serif;
+}
+
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+    /*padding: 2px;*/
+    color: #08415C;
+}
+
+h2 {
+    font-size: 35px;
+    text-align: left;
+    /*padding: 2px;*/
+    color: #08415C;
+}
+
+h3 {
+    margin-left: 15px;
+    font-size: 30px;
+    /*padding: 2px;*/
+    color: #6A2E35;
+}
+
+.text {
+    margin-left: 15px;
+    font-size: 25px;
+    /*padding: 2px;*/
+    color: #6A2E35;
+}
+label{
+
+    /*margin-left: 15px;*/
+    font-size: 25px;
+    /*/*padding: 2px;*/
+    color: #08415C;
+
+
+}
+
+textarea {
+    resize: none;
+}
+
+table {
+    font-size: 25px;
+    padding: 5px;
+    color: #08415C;
+}
+
+tr, td, th {
+    border: 2px solid #6A2E35;
+    padding: 10px;
+}
